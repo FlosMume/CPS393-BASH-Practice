@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo "Hello from Bash"
+exit 0
